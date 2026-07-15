@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+python-jose[cryptography]
+pydantic
+pydantic-settings
+pydantic-core
+anthropic
+requests
