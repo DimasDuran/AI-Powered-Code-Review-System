@@ -25,6 +25,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.code-review-ai-iterative.md
 
 # PyInstaller
 #   Usually these files are written by a python script from a template
@@ -64,7 +65,6 @@ db.sqlite3-journal
 # Flask stuff:
 instance/
 .webassets-cache
-
 # Scrapy stuff:
 .scrapy
 
@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project docs
+code-review-ai-iterative.md
