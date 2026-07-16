@@ -397,8 +397,6 @@ Iteration 7-10: + Cost/Monitoring/Security -> Production-ready
 
 ---
 
-## Interview Tips
-
 **What Went Well:**
 - Started simple, iterated methodically
 - Discussed tradeoffs at each step
@@ -412,14 +410,6 @@ Iteration 7-10: + Cost/Monitoring/Security -> Production-ready
 - Not considering false positive problem
 - Forgetting about team customization
 - Missing production concerns (monitoring, security)
-
-**Strong Candidate Signals:**
-- Quantifies everything with numbers
-- Balances accuracy vs cost vs latency
-- Considers learning from feedback
-- Thinks about developer experience
-- Plans for scale and failure modes
-
 ---
 
 ## Usage
